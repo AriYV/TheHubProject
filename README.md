@@ -17,8 +17,5 @@ Aridaman Yadav
 
 aridaman007@gmail.com
 
-<http://www.neonthesalon.com>
-
-
 Original repository.
 $ git clone git@github.com:blairanderson/rails-hackernews-reddit-producthunt-clone.git
